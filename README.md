@@ -8,7 +8,7 @@ A web application for generating invoices, built using React, provides an effici
 
 
 ### Screenshots
-(https://github.com/user-attachments/assets/7be63ab0-ef04-435e-8305-a6a48252ef91)
+
 
 
 ### Installation
